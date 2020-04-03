@@ -1,0 +1,14 @@
+{
+  "name": "@simplified_discord",
+  "version": "1.0.0",
+  "description": "Will simplify the way you write basic discord.js code... simple",
+  "license": "MIT",
+  "repository": "simplified_discord",
+  "main": "index.js",
+  "keywords": [
+    "discord",
+    "npm",
+    "package",
+    "simplified"
+  ]
+}
